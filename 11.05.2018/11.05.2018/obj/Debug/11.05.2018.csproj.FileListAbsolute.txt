@@ -1,0 +1,7 @@
+c:\users\nurullah\source\repos\11.05.2018\11.05.2018\obj\Debug\11.05.2018.csprojResolveAssemblyReference.cache
+c:\users\nurullah\source\repos\11.05.2018\11.05.2018\obj\Debug\11.05.2018.csproj.CoreCompileInputs.cache
+c:\users\nurullah\source\repos\11.05.2018\11.05.2018\bin\Debug\11.05.2018.exe.config
+c:\users\nurullah\source\repos\11.05.2018\11.05.2018\bin\Debug\11.05.2018.exe
+c:\users\nurullah\source\repos\11.05.2018\11.05.2018\bin\Debug\11.05.2018.pdb
+c:\users\nurullah\source\repos\11.05.2018\11.05.2018\obj\Debug\11.05.2018.exe
+c:\users\nurullah\source\repos\11.05.2018\11.05.2018\obj\Debug\11.05.2018.pdb
